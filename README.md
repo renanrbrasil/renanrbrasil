@@ -9,9 +9,9 @@
 
 <div style = "display: inline_block" width="42%">
 
-  <img alt="my stats"  height="160em" src="https://github-readme-stats.vercel.app/api?username=renanrbrasil&show_icons=true&theme=tokyonight"/>
+  <img alt="my stats"  height="170em" src="https://github-readme-stats.vercel.app/api?username=renanrbrasil&show_icons=true&theme=tokyonight"/>
 
-  <img alt ="top langs"  height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanrbrasil&theme=tokyonight"/>
+  <img alt ="top langs"  height="170em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanrbrasil&theme=tokyonight"/>
 
 </div>
 
