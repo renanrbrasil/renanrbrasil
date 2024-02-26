@@ -7,7 +7,7 @@
 
 ##
 
-<div style = "display: inline_block">
+<div style = "display: inline_block" width="42%">
 
   <img alt="my stats"  height="180em" src="https://github-readme-stats.vercel.app/api?username=renanrbrasil&show_icons=true&theme=tokyonight"/>
   
