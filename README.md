@@ -7,9 +7,13 @@
 
 ##
 
-<img alt="my stats"  height="180em" src="https://github-readme-stats.vercel.app/api?username=renanrbrasil&show_icons=true&theme=tokyonight"/>
+<div style = "display: inline_block">
 
-<img alt ="top langs"  height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanrbrasil&theme=tokyonight"/>
+  <img alt="my stats"  height="180em" src="https://github-readme-stats.vercel.app/api?username=renanrbrasil&show_icons=true&theme=tokyonight"/>
+  
+  <img alt ="top langs"  height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanrbrasil&theme=tokyonight"/>
+
+</div>
 
 <div style = "display: inline_block"> <br>
   <img align = "center" alt="Python" height ="30" width = "40" <link rel="stylesheet" type='text/css' <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
