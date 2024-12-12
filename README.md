@@ -1,7 +1,7 @@
 ### Olá, eu sou o Renan Brasil 👋
 
 - 🌱 Estudando **Python**, **JavaScript**, **HTML** e **CSS**.
-- 🎮 Hobby em **criar jogos na Unity** e jogar um LoLzinho.
+- 🎮 Hobby em **criar jogos na Unity** e **jogar um LoLzinho**.
 - 📫 Você pode me contatar pelo e-mail: [renanrbrasil@gmail.com](mailto:renanrbrasil@gmail.com).
 
 
