@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Python e Javascript 
 - 📫 Contate-me no e-mail: renanrbrasil@gmail.com
-- ⚡ Fun fact: Descobri que queria ser programador depois que corrigi um bug do GTA San Andreas.
 
 ##
 
