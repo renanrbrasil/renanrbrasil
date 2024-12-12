@@ -1,9 +1,9 @@
-### Hello World! Eu sou o Renan Brasil
+### Olá, eu sou o Renan Brasil 👋
 
-- 🌱 Estudando Python e Javascript 
-- 📫 Contate-me no e-mail: renanrbrasil@gmail.com
+- 🌱 Estudando **Python**, **JavaScript**, **HTML** e **CSS**.
+- 🎮 Hobby em **criar jogos na Unity** e jogar um LoLzinho.
+- 📫 Você pode me contatar pelo e-mail: [renanrbrasil@gmail.com](mailto:renanrbrasil@gmail.com).
 
-##
 
 <div style = "display: inline_block" width="42%">
 
