@@ -13,12 +13,6 @@
 
 </div>
 
-<div style = "display: inline_block"> <br>
-  <img align = "center" alt="Python" height ="30" width = "40" <link rel="stylesheet" type='text/css' <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align = "center" alt="Python" height ="30" width = "40" <link rel="stylesheet" type='text/css' <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-</div>
-
 ##
 
 <div> 
